@@ -1,8 +1,7 @@
 partial-install
 ===============
 
-> A Windows Node.js native add-on to associate USB devices to the generic
-> WinUSB driver
+Subset `package.json` based on the needs of a specific entry point file.
 
 Installation
 ------------
