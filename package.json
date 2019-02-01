@@ -14,11 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/balena-io-modules/partial-install.git"
   },
-  "ava": {
-    "timeout": "5m",
-    "verbose": true,
-    "failWithoutAssertions": true
-  },
   "author": "Balena.io <hello@balena.io>",
   "license": "Apache-2.0",
   "bugs": {
