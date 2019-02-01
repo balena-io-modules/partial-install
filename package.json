@@ -1,7 +1,7 @@
 {
   "name": "partial-install",
   "version": "1.0.0",
-  "description": "Partial package.json and package-lock.json package installation",
+  "description": "Subset package.json based on the needs of a specific entry point file",
   "bin": {
     "partial-install": "lib/index.js"
   },
