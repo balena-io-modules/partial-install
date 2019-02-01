@@ -1,6 +1,6 @@
 {
   "name": "partial-install",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Subset package.json based on the needs of a specific entry point file",
   "bin": {
     "partial-install": "lib/index.js"
